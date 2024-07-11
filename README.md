@@ -9,4 +9,6 @@ Continue reading cp handbook and give contests.
 Week 3:
 Do the assorted questions prepared by mentors.
 
-In generak continue giving contests.
+In general continue giving contests.
+
+Contest 1 consists of all important files. Renaming directory to be done.
